@@ -7,5 +7,5 @@
   "azureFunctions.preDeployTask": "npm prune",
   "staticWebApps.appSubpath": "vue-app",
   "staticWebApps.apiSubpath": "vue-app",
-  "staticWebApps.appArtifactSubpath": "build"
+  "staticWebApps.appArtifactSubpath": "dist"
 }
